@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.profile{
+  background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+background-size: cover;
+height:900px;
+}
+.login{
+  background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+height:700px;
+margin-top: -1.68%;
+}
+.Registration{
+  background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+height:700px;
+margin-top: -0.559%;
+
+}
